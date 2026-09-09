@@ -1,1 +1,1 @@
-# -CSCI-271-Fall-2026
+My name is Joshua Williams-Jack, and this is my practice repo for this course
